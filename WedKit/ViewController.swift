@@ -13,7 +13,7 @@ class ViewController: UIViewController{
         let button = UIButton()
         button.setTitle("Song Art", for: .normal)
         button.backgroundColor = .link
-        button.setTitleColor(.white, for: .normal)
+        button.setTitleColor(.red, for: .normal)
         return button
     }()
     
